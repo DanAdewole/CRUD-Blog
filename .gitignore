@@ -1,0 +1,16 @@
+venv
+
+.upm
+poetry.lock
+pyproject.toml
+
+.idea
+
+__pycache__/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# pyenv
+.python-version
